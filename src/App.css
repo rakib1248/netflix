@@ -1,0 +1,13 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.main {
+  height: 100vh;
+  width: auto;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url("./netflix.jpg") no-repeat center center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+}
